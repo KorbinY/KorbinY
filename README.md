@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Korbin Yang.
-- 🕸️ I’m interested in Graph Neural Networks, Natural Language Processing, Causal Inference.
-- 🎓 I’m currently pursuing my Ph.D in CSE@MSU.
-- 📧 Reach me at email: kqyang "at" msu "dot" edu.
+- 👋 Hi, I’m Korbin (Kaiqi) Yang.
+- 🧠 I work on Large Language Models, Computational Social Science, and AI for Education.
+- 🔬 My research focuses on LLM-based reasoning, automated assessment, and socially grounded AI systems.
+- 🎓 I’m a PhD student in Computer Science at Michigan State University (MSU).
+- 📧 Reach me at: PRE "at" MID "dot" SUF, where [PRE, MID, SUF] = ["kqyang", "msu", "edu"].
