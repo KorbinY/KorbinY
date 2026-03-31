@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Korbin (Kaiqi) Yang.
-- 🧠 I work on Large Language Models, Computational Social Science, and AI for Education.
-- 🔬 My research focuses on LLM-based reasoning, automated assessment, and socially grounded AI systems.
-- 🎓 I’m a PhD student in Computer Science at Michigan State University (MSU).
-- 📧 Reach me at: PRE "at" MID "dot" SUF, where [PRE, MID, SUF] = ["kqyang", "msu", "edu"].
+- 🎓 Ph.D. student in Computer Science at MSU.
+- 🧠 I work on Large Language Models, Computational Social Science, and AI for Social Good.
+- 🔬 My research focuses on LLMs' reasoning, automated assessment, and evaluating LLMs in real-world social settings.
+- 📍 Previously: Master's of Applied Statistics (Data Science) and Bachelor's of Sociology, Fudan University.
+- 💼 Will be on the Job Market in Spring 2027: open to industry roles in social computing, dialogue systems, and user modeling.
+- 🤝 Welcome collaboration and discussion -- feel free to reach out!
+- 📧 Reach me at: foo "at" bar "dot" baz, where [foo, bar, baz] = ["kqyang", "msu", "edu"].
