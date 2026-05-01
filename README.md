@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Korbin (Kaiqi) Yang.
-- 🎓 Ph.D. student in Computer Science at MSU.
+- 🎓 Ph.D. student in Computer Science at MSU -- advised by Hui Liu
 - 🧠 I work on Large Language Models, Computational Social Science, and AI for Social Good.
 - 🔬 My research focuses on LLMs' reasoning, automated assessment, and evaluating LLMs in real-world social settings.
 - 📍 Previously: Master's of Applied Statistics (Data Science) and Bachelor's of Sociology, Fudan University.
